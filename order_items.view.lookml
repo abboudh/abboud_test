@@ -70,7 +70,7 @@
   - measure: total_sale_price
     type: sum
     sql: ${sale_price}
-    decimals: 2 
+#    decimals: 2 
 #    value_format: '$#,##0.00'
     
   - measure: total_gross_margin
